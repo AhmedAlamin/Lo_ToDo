@@ -1,3 +1,3 @@
 # Lo_ToDo
-Simple To Do List Using SQLLite Database and java
+Simple To Do List Using SQLLite Database, Recycler View and java.
 
